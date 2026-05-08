@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "title": "React 19 RC Features",
+      "description": "React 19 introduces the new compiler and use() hook for better performance and simpler code.",
+      "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+      "category": "Front-End",
+      "likes": 4,
+      "dislikes": 1
+    },
+    {
+      "id": "2",
+      "title": "Node.js 22 Released",
+      "description": "The latest Node.js release brings require() for ES modules and a new WebSocket client.",
+      "image": "https://images.unsplash.com/photo-1555099962-4199c345e5dd?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+      "category": "Back-End",
+      "likes": 4,
+      "dislikes": 2
+    },
+    {
+      "id": "3",
+      "title": "Generative AI in 2024",
+      "description": "How generative AI models are shaping the future of software development.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+      "category": "AI",
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "title": "Google enhances serverless with new cloud runtime",
+      "description": "Google Cloud has introduced an upgraded serverless runtime that improves cold start times and supports more programming languages. This update aims to simplify backend development and allow developers to deploy scalable APIs with minimal configuration.\n",
+      "image": "https://thumbs.dreamstime.com/b/d-illustration-depicting-abstract-blue-printed-circuit-board-components-tech-news-concept-tech-news-concept-102701717.jpg",
+      "category": "Back-End",
+      "likes": 3,
+      "dislikes": 3,
+      "id": "3McveSp"
+    }
+  ],
+  "users": [
+    {
+      "fullName": "Islam Adel",
+      "email": "Islam@example.com",
+      "password": "test1234",
+      "id": 1
+    }
+  ]
+}
